@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 15px  solid black;
+    margin: 2rem;
+    text-align: center;
+    font-size: 50px;
+
+}
+.btncontainer{
+    display: flex;
+    justify-content: center;
+}
+.f{
+    background-color:  #d95980; 
+}
+.s{
+    background-color:  #f99b45; 
+}
+.t{
+    background-color:  #819ff0; 
+}
+.fo{
+    background-color:  #63aac0; 
+}
+.flash{
+    background-color: #ffff;
+}
+.usflash{
+    background-color: #167e16;
+}
